@@ -13,7 +13,7 @@ const Header = () => {
   const navigate = useNavigate();
 
   return (
-    <div className="bg-black h-16 px-4 flex justify-between items-center border-b border-gray-200">
+    <div className="bg-white h-16 px-4 flex justify-between items-center border-b border-gray-200">
       <div className="relative">
         <HiOutlineSearch
           fontSize={20}
